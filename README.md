@@ -6,3 +6,4 @@
 * Marisa Malveiro
 * Nuno Faria
 
+![Logo](imagens/logo.png)

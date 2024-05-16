@@ -1,5 +1,5 @@
-# PAC
+# Programação de Aplicação do Lado do Cliente
 
-Frase 1 a alterar - frase alterada
+## Gestão de Clube Desportivo
 
-Frase 2 a alterar - ALTERADAAAAAAA
+### Esta aplicação ...
